@@ -24,7 +24,7 @@ pip install -r requirements.txt
 ## How to Use
 
 python
-python dashboard_alertify.py
+python final_dash.py
 
 
 
