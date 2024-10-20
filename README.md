@@ -8,25 +8,24 @@ Alertify is an advanced disaster management and response system that continuousl
 
 create a virtual environment
 
-bash
+```bash
 python -m venv venv
 venv\Scripts\activate
 source venv/bin/activate
-
+```
 
 
 Install dependencies
-bash
+```bash
 pip install -r requirements.txt
-
+```
 
 
 
 ## How to Use
-
-python
+```
 python final_dash.py
-
+```
 
 
 
